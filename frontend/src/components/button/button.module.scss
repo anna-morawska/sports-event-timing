@@ -1,0 +1,16 @@
+@import '../../assets//styles/variables';
+
+.button {
+  cursor: pointer;
+  background: $color-secondary;
+  outline: none;
+  width: 70%;
+  border: 0.2rem solid $font-color-dark;
+  color: $font-color-dark;
+  padding: 0.4rem 2.5rem;
+  font-size: 2rem;
+  text-transform: uppercase;
+  font-weight: 400;
+  margin: 0.8rem;
+  position: relative;
+}

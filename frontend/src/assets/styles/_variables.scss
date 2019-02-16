@@ -1,0 +1,20 @@
+// COLORS
+$color-primary: #2552de;
+$color-primary-dark: #a082d8;
+
+$color-secondary: #fff;
+
+$row-background-dark: #efeeef;
+$row-background-light: #fff8ff;
+
+$font-color-light: #fff;
+$font-color-dark: #060606;
+$font-color-coloured: #2552de;
+
+//FONT SIZES
+$default-font-size: 1.6rem;
+
+$cart-height: 90%;
+$header-height: 30%;
+$controler-height: 18%;
+$score-container-height: calc(100% - #{$header-height} - #{$controler-height});

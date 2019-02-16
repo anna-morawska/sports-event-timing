@@ -1,0 +1,37 @@
+@import '../../assets//styles/variables';
+
+.overview {
+  width: 75%;
+  margin: 0 auto;
+  height: $score-container-height;
+  position: relative;
+
+  .header {
+    display: flex;
+    justify-content: center;
+    color: $font-color-coloured;
+    text-transform: uppercase;
+
+    p {
+      width: 25%;
+      text-align: center;
+      margin-bottom: 0;
+      font-size: 1.6rem;
+    }
+  }
+
+  .scoresContainer {
+    height: 80%;
+  }
+
+  .table {
+    height: auto;
+    div:nth-child(odd) {
+      background: $row-background-dark;
+    }
+
+    div:nth-child(even) {
+      background: $row-background-light;
+    }
+  }
+}

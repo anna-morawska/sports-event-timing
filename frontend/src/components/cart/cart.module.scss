@@ -1,0 +1,14 @@
+@import '../../assets//styles/variables';
+@import '../../assets//styles/media-query';
+
+.cart {
+  width: 58rem;
+  height: $cart-height;
+  background-color: $color-secondary;
+  border-radius: 5px;
+  box-shadow: 0.7rem 1rem 2rem 1rem rgba(93, 77, 77, 0.5);
+
+  @include respond(phone) {
+    width: 90%;
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "dataset": [
+    {
+      "chipId": "vszqv8ffEUSdCa0/2CcxFQ",
+      "timingPointId": "enter",
+      "time": "00:00:02:100"
+    },
+    {
+      "chipId": "vszqv8ffEUSdCa0/2CcxFQ",
+      "timingPointId": "finish",
+      "time": "00:00:07:970"
+    },
+    {
+      "chipId": "p3r9CijVGUis2JfHc3F7mQ",
+      "timingPointId": "enter",
+      "time": "00:00:03:480"
+    },
+    {
+      "chipId": "p3r9CijVGUis2JfHc3F7mQ",
+      "timingPointId": "finish",
+      "time": "00:00:10:420"
+    },
+    {
+      "chipId": "KW+CyQIZVkqRV8Tghc58OA",
+      "timingPointId": "enter",
+      "time": "00:00:05:630"
+    },
+    {
+      "chipId": "KW+CyQIZVkqRV8Tghc58OA",
+      "timingPointId": "finish",
+      "time": "00:00:07:530"
+    },
+    {
+      "chipId": "BXz6pswbBEOu6TioTxcyNw",
+      "timingPointId": "enter",
+      "time": "00:00:08:830"
+    },
+    {
+      "chipId": "BXz6pswbBEOu6TioTxcyNw",
+      "timingPointId": "finish",
+      "time": "00:00:13:440"
+    },
+    {
+      "chipId": "VN7SzsNKFUyjoDquHjetDA",
+      "timingPointId": "enter",
+      "time": "00:00:08:610"
+    },
+    {
+      "chipId": "VN7SzsNKFUyjoDquHjetDA",
+      "timingPointId": "finish",
+      "time": "00:00:18:550"
+    },
+    {
+      "chipId": "3sOob18GRU+a27eHNTizOQ",
+      "timingPointId": "enter",
+      "time": "00:00:03:650"
+    },
+    {
+      "chipId": "3sOob18GRU+a27eHNTizOQ",
+      "timingPointId": "finish",
+      "time": "00:00:09:510"
+    },
+    {
+      "chipId": "WYqENy/nrUCutVXeJlPCIA",
+      "timingPointId": "enter",
+      "time": "00:00:07:040"
+    },
+    {
+      "chipId": "WYqENy/nrUCutVXeJlPCIA",
+      "timingPointId": "finish",
+      "time": "00:00:14:040"
+    },
+    {
+      "chipId": "h/ulNNjfDEuu08EyT5p+kg",
+      "timingPointId": "enter",
+      "time": "00:00:01:580"
+    },
+    {
+      "chipId": "h/ulNNjfDEuu08EyT5p+kg",
+      "timingPointId": "finish",
+      "time": "00:00:08:230"
+    },
+    {
+      "chipId": "OG+MUiEPpkO5XrLLERm1SQ",
+      "timingPointId": "enter",
+      "time": "00:00:06:940"
+    },
+    {
+      "chipId": "OG+MUiEPpkO5XrLLERm1SQ",
+      "timingPointId": "finish",
+      "time": "00:00:11:000"
+    },
+    {
+      "chipId": "hpXSBKjgBEeKbU28zYREGw",
+      "timingPointId": "enter",
+      "time": "00:00:05:430"
+    },
+    {
+      "chipId": "hpXSBKjgBEeKbU28zYREGw",
+      "timingPointId": "finish",
+      "time": "00:00:12:670"
+    },
+    {
+      "chipId": "QO42e0HKU0SNEdMLUkBZKA",
+      "timingPointId": "enter",
+      "time": "00:00:08:890"
+    },
+    {
+      "chipId": "QO42e0HKU0SNEdMLUkBZKA",
+      "timingPointId": "finish",
+      "time": "00:00:18:030"
+    },
+    {
+      "chipId": "8BwVaoaYFEmE2Wt4AEOcYQ",
+      "timingPointId": "enter",
+      "time": "00:00:05:150"
+    },
+    {
+      "chipId": "8BwVaoaYFEmE2Wt4AEOcYQ",
+      "timingPointId": "finish",
+      "time": "00:00:16:060"
+    },
+    {
+      "chipId": "bCNKTBhNM0umFfTUmu4qkg",
+      "timingPointId": "enter",
+      "time": "00:00:08:950"
+    },
+    {
+      "chipId": "bCNKTBhNM0umFfTUmu4qkg",
+      "timingPointId": "finish",
+      "time": "00:00:17:350"
+    },
+    {
+      "chipId": "Ux0I0qyfPEC2pi8KJZNrXQ",
+      "timingPointId": "enter",
+      "time": "00:00:07:140"
+    },
+    {
+      "chipId": "Ux0I0qyfPEC2pi8KJZNrXQ",
+      "timingPointId": "finish",
+      "time": "00:00:11:010"
+    },
+    {
+      "chipId": "lmovFn6isEOKSwOVqnucwg",
+      "timingPointId": "enter",
+      "time": "00:00:05:470"
+    },
+    {
+      "chipId": "lmovFn6isEOKSwOVqnucwg",
+      "timingPointId": "finish",
+      "time": "00:00:19:410"
+    },
+    {
+      "chipId": "pjSZdOGX3EawFeK3ge3nGw",
+      "timingPointId": "enter",
+      "time": "00:00:02:450"
+    },
+    {
+      "chipId": "pjSZdOGX3EawFeK3ge3nGw",
+      "timingPointId": "finish",
+      "time": "00:00:10:410"
+    },
+    {
+      "chipId": "mP+nbhQo0kuXoXVzXXmGZA",
+      "timingPointId": "enter",
+      "time": "00:00:06:250"
+    },
+    {
+      "chipId": "mP+nbhQo0kuXoXVzXXmGZA",
+      "timingPointId": "finish",
+      "time": "00:00:13:090"
+    },
+    {
+      "chipId": "e2j3HqnNuEuFOGyQXvBKSQ",
+      "timingPointId": "enter",
+      "time": "00:00:03:620"
+    },
+    {
+      "chipId": "e2j3HqnNuEuFOGyQXvBKSQ",
+      "timingPointId": "finish",
+      "time": "00:00:10:550"
+    },
+    {
+      "chipId": "pjlLOfGLtUKFRBug9qW2GQ",
+      "timingPointId": "enter",
+      "time": "00:00:04:450"
+    },
+    {
+      "chipId": "pjlLOfGLtUKFRBug9qW2GQ",
+      "timingPointId": "finish",
+      "time": "00:00:08:360"
+    },
+    {
+      "chipId": "VHb2XA20AEyyqCbsgljJrQ",
+      "timingPointId": "enter",
+      "time": "00:00:05:760"
+    },
+    {
+      "chipId": "VHb2XA20AEyyqCbsgljJrQ",
+      "timingPointId": "finish",
+      "time": "00:00:10:970"
+    }
+  ]
+}
