@@ -1,6 +1,6 @@
 # sports-event-timing
 
-![alt text](https://drive.google.com/file/d/1sKZeNbaIkwH-9J6Na47N1RtqExQq9PL2/view)
+![app](https://drive.google.com/file/d/1sKZeNbaIkwH-9J6Na47N1RtqExQq9PL2)
 
 The project consists of 3 parts:
 
