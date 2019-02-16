@@ -1,14 +1,3 @@
-/** *
- * schemat:
- * Po udamym requescie do bazy emitujemy zdażenie websocket
- * z informacją z nazwiskiem i czasem i typem enter/finish
- *
- * jakieś rozwiązanie, które pozwala na zdecydowanie kiedy zaczynają sie requesty
- *
- * discontect
- *
- */
-
 const app = require('express')();
 const server = require('http').Server(app);
 const io = (module.exports = require('socket.io')(server));

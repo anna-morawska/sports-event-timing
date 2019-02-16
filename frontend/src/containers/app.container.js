@@ -49,8 +49,6 @@ class AppContainer extends Component {
   };
 
   render() {
-    // startTheRace,
-    // substractTime
     const {
       scores,
       visibilityFilter,
