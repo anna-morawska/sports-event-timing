@@ -13,13 +13,13 @@ test-client - a small express server which - based on the fake data provided in 
 
 To run the app, all the dependencies have to be installed. Run:
 
-```
+```js
 yarn / npm install
 ```
 
 in the frontend, backend, test-client and the root project directory. Then, to start the app run
 
-```
+```js
  yarn start / npm start
 ```
 
