@@ -1,7 +1,5 @@
 # sports-event-timing
 
-![app](https://drive.google.com/uc?export=view&id=1sKZeNbaIkwH-9J6Na47N1RtqExQq9PL2)
-
 The project consists of 3 parts:
 
 frontend - created based on create-react-app boilerplate. It is connected via socket.io to the backend server. It connects and reconnects to the server depending on the focus/blur state of the browser window.
